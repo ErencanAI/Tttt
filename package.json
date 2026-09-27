@@ -1,0 +1,9 @@
+{
+  "name": "nvidia-ai-chat",
+  "version": "1.0.0",
+  "description": "NVIDIA AI API ile çalışan Python tabanlı sohbet uygulaması",
+  "private": true,
+  "scripts": {
+    "start": "python3 nvidia_chat.py"
+  }
+}
